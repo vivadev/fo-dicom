@@ -1,4 +1,4 @@
-# Fellow Oak DICOM for .NET fork
+# Fellow Oak DICOM for .NET
 
 Please join the [Google group](http://groups.google.com/group/fo-dicom) for updates and support. Binaries are available from [GitHub](https://github.com/rcd/fo-dicom/downloads) and [NuGet](http://www.nuget.org/packages/fo-dicom).
 
